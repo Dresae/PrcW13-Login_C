@@ -19,3 +19,15 @@ header{
     align-items: center;
     z-index: 99;
 }
+
+.logo{
+    font-size: 2em;
+    color: #fff;
+    user-select: none;
+}
+
+.navigation a{
+    position: relative;
+    font-size: 1.1em;
+    color: #fff;
+}
