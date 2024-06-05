@@ -100,6 +100,14 @@ header{
     padding: 40px;
 }
 
+.wraper .icon-close{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 45px;
+    background: #162938;
+}
+
 .form-box h2{
     font-size: 2em;
     color: #000;
