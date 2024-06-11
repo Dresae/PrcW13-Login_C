@@ -221,12 +221,13 @@ header{
 }
 
 .remember-forgot a{
-    color: #a8b7f4;
+    color: #202131;
     text-decoration: none;
 }
 
 .remember-forgot a:hover{
     text-decoration: underline;
+    color: #a8b7f4;
 }
 
 .btn{
